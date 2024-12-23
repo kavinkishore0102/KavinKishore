@@ -6,7 +6,7 @@ I’m an undergraduate student at *Bannari Amman Institute of Technology* in Tam
 🔧 *Skills and Technologies*  
 - *Frontend:* HTML, CSS, QT
 - *Backend:* Django, Flask, Java
-- *Tools:* QT, Docker
+- *Tools:* QT, Power BI
 - *Concepts:* Object-Oriented Programming (OOP)
 
 🌱 *On the Learning Path*  
